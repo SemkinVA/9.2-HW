@@ -54,13 +54,23 @@
 
 **Ответ:**
 
-Ссылка на Second commit https://github.com/SemkinVA/8.1-Git-HW/commit/0b24a6d30a374c02811326263f26943462d4dab4
+1. Установите Zabbix Agent на 2 виртмашины, одной из них может быть ваш Zabbix Server.
+
+![2-1](https://github.com/SemkinVA/9.2-HW/blob/main/2-1.png)
+
+![2-2](https://github.com/SemkinVA/9.2-HW/blob/main/2-2.png)
+
+2. Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
+
+![2-3](https://github.com/SemkinVA/9.2-HW/blob/main/2-3.png)
+
+3. Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
+
+![2-5](https://github.com/SemkinVA/9.2-HW/blob/main/2-5.png)
+
+4. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
+
+![2-4](https://github.com/SemkinVA/9.2-HW/blob/main/2-4.png)
 
 
-1. Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
 
-![2-1](https://github.com/SemkinVA/8.1-Git-HW/blob/main/2-1.png)
-
-2. Добавьте файл .gitignore в следующий коммит `git add...`.
-
-![2-2](https://github.com/SemkinVA/8.1-Git-HW/blob/main/2-2.png)
