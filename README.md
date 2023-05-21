@@ -24,6 +24,13 @@
 
 ![1-2](https://github.com/SemkinVA/9.2-HW/blob/main/1-2.png)
 
+3. Выполните все необходимые команды для установки Zabbix Server и Zabbix Web Server
+
+![1-3](https://github.com/SemkinVA/9.2-HW/blob/main/1-3.png)
+
+![1-4](https://github.com/SemkinVA/9.2-HW/blob/main/1-4.png)
+
+![1-5](https://github.com/SemkinVA/9.2-HW/blob/main/1-5.png)
 
 ***
 ### Задание 2 
