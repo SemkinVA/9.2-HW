@@ -32,6 +32,8 @@
 
 ![1-5](https://github.com/SemkinVA/9.2-HW/blob/main/1-5.png)
 
+![1-6](https://github.com/SemkinVA/9.2-HW/blob/main/1-6.png)
+
 ***
 ### Задание 2 
 
