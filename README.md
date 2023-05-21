@@ -16,13 +16,11 @@
 
 **Ответ:**
 
-Ссылка на First commit https://github.com/SemkinVA/8.1-Git-HW/commit/261f05b8296ecd918fb77503806bd9545fad2e68
+1. Установите PostgreSQL. Для установки достаточна та версия что есть в системном репозитороии Debian 11). 
 
-1. Зарегистрируйте аккаунт на [GitHub](https://github.com/). 
+![1-1](https://github.com/SemkinVA/9.2-HW/blob/main/1-1.png)
 
-![1-1](https://github.com/SemkinVA/8.1-Git-HW/blob/main/1-1.png)
-
-2. Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
+2. Пользуясь конфигуратором комманд с официального сайта, составьте набор команд для установки последней версии Zabbix с поддержкой PostgreSQL и Apache.
 
 ![1-2](https://github.com/SemkinVA/8.1-Git-HW/blob/main/1-2.png)
 
