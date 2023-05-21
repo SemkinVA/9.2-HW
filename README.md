@@ -22,7 +22,7 @@
 
 2. Пользуясь конфигуратором комманд с официального сайта, составьте набор команд для установки последней версии Zabbix с поддержкой PostgreSQL и Apache.
 
-![1-2](https://github.com/SemkinVA/8.1-Git-HW/blob/main/1-2.png)
+![1-2](https://github.com/SemkinVA/9.2-HW/blob/main/1-2.png)
 
 
 ***
